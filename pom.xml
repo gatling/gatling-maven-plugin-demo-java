@@ -5,7 +5,7 @@
 
   <groupId>io.gatling.demo</groupId>
   <artifactId>gatling-maven-plugin-demo-java</artifactId>
-  <version>3.8.2</version>
+  <version>3.8.3</version>
 
   <properties>
     <!-- use the following if you're compiling with JDK 8-->
@@ -15,7 +15,7 @@
     <!--    <maven.compiler.release>11</maven.compiler.release>-->
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <gatling.version>${project.version}</gatling.version>
-    <gatling-maven-plugin.version>4.2.3</gatling-maven-plugin.version>
+    <gatling-maven-plugin.version>4.2.4</gatling-maven-plugin.version>
     <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
     <maven-jar-plugin.version>3.2.0</maven-jar-plugin.version>
   </properties>
