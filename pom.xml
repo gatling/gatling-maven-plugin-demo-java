@@ -5,7 +5,7 @@
 
   <groupId>io.gatling.demo</groupId>
   <artifactId>gatling-maven-plugin-demo-java</artifactId>
-  <version>3.11.3</version>
+  <version>3.11.4</version>
 
   <properties>
     <maven.compiler.release>11</maven.compiler.release>
