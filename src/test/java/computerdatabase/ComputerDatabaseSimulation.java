@@ -11,8 +11,8 @@ import java.util.concurrent.ThreadLocalRandom;
 /**
  * This sample is based on our official tutorials:
  * <ul>
- *   <li><a href="https://gatling.io/docs/gatling/tutorials/quickstart">Gatling quickstart tutorial</a>
- *   <li><a href="https://gatling.io/docs/gatling/tutorials/advanced">Gatling advanced tutorial</a>
+ *   <li><a href="https://docs.gatling.io/tutorials/recorder/">Gatling quickstart tutorial</a>
+ *   <li><a href="https://docs.gatling.io/tutorials/advanced/">Gatling advanced tutorial</a>
  * </ul>
  */
 public class ComputerDatabaseSimulation extends Simulation {
