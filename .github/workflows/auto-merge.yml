@@ -3,7 +3,7 @@ name: Auto Merge
 on:
   workflow_run:
     workflows:
-      - build
+      - Build
     types:
       - completed
 
